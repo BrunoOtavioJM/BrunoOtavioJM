@@ -21,7 +21,7 @@ Profissional de tecnologia com sólida base em infraestrutura e desenvolvimento,
 
 ## Formação Acadêmica
 
-- **Superior em Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)** — Faculdade AESA - CESAR *(Previsão: 12/2027)*
+- **Superior em Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)** — Faculdade AESA - CESA *(Previsão: 12/2027)*
 - **Ensino Médio Técnico em Redes de Computadores** — ETE Prof. Francisco Jonas Feitosa Costa *(Concluído em 2025)*
 
 ## Certificações
